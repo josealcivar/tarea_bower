@@ -1,0 +1,19 @@
+{
+  "name": "ejercicio",
+  "version": "1.0.0",
+  "description": "prueba de nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "comandojs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "josealcivar"
+  },
+  "keywords": [
+    "jose",
+    "alcivar"
+  ],
+  "author": "jose alcivar garcia",
+  "license": "ISC"
+}
